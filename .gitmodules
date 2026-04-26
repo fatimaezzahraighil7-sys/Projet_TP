@@ -1,3 +1,6 @@
 [submodule "TP3"]
 	path = TP3
 	url = https://github.com/fatimaezzahraighil7-sys/TP3_Git.git
+[submodule "TP2"]
+	path = TP2
+	url = https://github.com/fatimaezzahraighil7-sys/TP2.git
